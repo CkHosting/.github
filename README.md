@@ -1,1 +1,2 @@
-# .github
+# Ck Hosting
+Ck Hosting is a hosting company founded in 2021 and registered in the Netherlands. Our goal was to offer a high quality server at an affordable price. We believe that hosting should be affordable for everyone even if you have less money available. We use the latest and greatest hardware to ensure the best possible performance. By bringing speed and stability, we try to give every customer the best hosting they deserve. All our servers are equipped with industry leading DDoS migration to keep the bad guys away for good.
