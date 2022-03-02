@@ -1,0 +1,4 @@
+# Ck Hosting
+Ck hosting was established in 2021 with the simple goal of making quality hosting services available and affordable for everyone. Over the past year, Ck hosting has built a reputation of being an ideal provider for people looking for Web Hosting, Game Hosting and Vps Hosting for a variety of reasons.
+<br><br>
+Ck Hosting is a hosting company founded in 2021 and registered in the Netherlands. Our goal was to offer a high quality server at an affordable price. We believe that hosting should be affordable for everyone even if you have less money available. We use the latest and greatest hardware to ensure the best possible performance. By bringing speed and stability, we try to give every customer the best hosting they deserve. All our servers are equipped with industry leading DDoS migration to keep the bad guys away for good.
